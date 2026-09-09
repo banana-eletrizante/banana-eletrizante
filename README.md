@@ -13,10 +13,24 @@ Desenvolvedor em Santos, SP — web, mobile, desktop, IoT e automação.
 | Blue Brilliant | Boia IoT + site 3D (Peixonautas) | [`blue-brilliant`](https://github.com/banana-eletrizante/blue-brilliant) |
 | Gaga | App de acessibilidade com IA | [`Gaga`](https://github.com/banana-eletrizante/Gaga) |
 | Argos | Gestão de transporte portuário | [`Argos`](https://github.com/banana-eletrizante/Argos) |
+| Rolegame | Roleplay + IA | [`Rolegame`](https://github.com/banana-eletrizante/Rolegame) |
+| The Drift | Garrafa ao mar | [`the-drift`](https://github.com/banana-eletrizante/the-drift) |
+| Talon | SaaS de pentest com agentes | [`talon`](https://github.com/banana-eletrizante/talon) |
+
+## Qual repo usar (canônico)
+
+| Tema | Use este | Ignore / archive |
+|---|---|---|
+| Acessibilidade | `Gaga` | `VisionAssist`, `vision-assistent` |
+| Portuário | `Argos` | `Argos_adm_html`, `argos_mobile_html`, `argos_transportadora_html` |
+| Debate + IA | `debate-arena` | `Disagree` (alpha), `direitai` / `esquerdai` são personas |
+| Roleplay | `Rolegame` | `your-game-hub` |
+| Pentest | `talon` | `Talons` |
+| P3 companion | `p3-companion-bibia` | `p3-companion` |
 
 ## Stack
 
-TypeScript · Next.js · Node.js · C# · React / Ionic / Expo · Linux / Raspberry Pi
+TypeScript · Next.js · Node.js · C# · React / Ionic / Expo · Python / FastAPI · Linux / Raspberry Pi
 
 ## Contato
 
