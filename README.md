@@ -9,6 +9,8 @@ Desenvolvedor em Santos, SP — web, mobile, desktop, IoT e automação.
 | Projeto | O que é | Repo |
 |---|---|---|
 | Portfólio | Site Next.js (pt/en/es/de) | [`andre-rosler`](https://github.com/banana-eletrizante/andre-rosler) |
+| AI Chat Lab | App Windows que gera e publica chats de IA | [`aichatlab`](https://github.com/banana-eletrizante/aichatlab) |
+| ASP.NET API | CRUD + JWT (portfolio C#) | [`AndreRosler.AspNetApi`](https://github.com/banana-eletrizante/AndreRosler.AspNetApi) |
 | NodePunch | Acelerador de backend Node.js (app C#) | [`nodepunch`](https://github.com/banana-eletrizante/nodepunch) |
 | Blue Brilliant | Boia IoT + site 3D (Peixonautas) | [`blue-brilliant`](https://github.com/banana-eletrizante/blue-brilliant) |
 | Gaga | App de acessibilidade com IA | [`Gaga`](https://github.com/banana-eletrizante/Gaga) |
@@ -27,10 +29,12 @@ Desenvolvedor em Santos, SP — web, mobile, desktop, IoT e automação.
 | Roleplay | `Rolegame` | `your-game-hub` |
 | Pentest | `talon` | `Talons` |
 | P3 companion | `p3-companion-bibia` | `p3-companion` |
+| Chat IA desktop | `aichatlab` | — |
+| API C# | `AndreRosler.AspNetApi` | — |
 
 ## Stack
 
-TypeScript · Next.js · Node.js · C# · React / Ionic / Expo · Python / FastAPI · Linux / Raspberry Pi
+TypeScript · Next.js · Node.js · C# / ASP.NET · WPF · React / Ionic / Expo · Python / FastAPI · Linux / Raspberry Pi
 
 ## Contato
 
