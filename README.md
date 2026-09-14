@@ -9,6 +9,7 @@ Desenvolvedor em Santos, SP — web, mobile, desktop, IoT e automação.
 | Projeto | O que é | Repo |
 |---|---|---|
 | Portfólio | Site Next.js (pt/en/es/de) | [`andre-rosler`](https://github.com/banana-eletrizante/andre-rosler) |
+| Budget Officer | App responsivo de finanças com Next.js, TypeScript e Firebase | [`budget-officer`](https://github.com/banana-eletrizante/budget-officer) · [demo](https://budgetofficerbgkmyhmhm.vercel.app/) |
 | AI Chat Lab | App Windows que gera e publica chats de IA | [`aichatlab`](https://github.com/banana-eletrizante/aichatlab) |
 | ASP.NET API | CRUD + JWT (portfolio C#) | [`AndreRosler.AspNetApi`](https://github.com/banana-eletrizante/AndreRosler.AspNetApi) |
 | NodePunch | Acelerador de backend Node.js (app C#) | [`nodepunch`](https://github.com/banana-eletrizante/nodepunch) |
@@ -31,6 +32,7 @@ Desenvolvedor em Santos, SP — web, mobile, desktop, IoT e automação.
 | P3 companion | `p3-companion-bibia` | `p3-companion` |
 | Chat IA desktop | `aichatlab` | — |
 | API C# | `AndreRosler.AspNetApi` | — |
+| Finanças pessoais | `budget-officer` | — |
 
 ## Stack
 
